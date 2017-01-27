@@ -6,7 +6,7 @@ This project contains code that can run benchmarks for the following .NET centri
 * SQL Server Express LocalDB 2012 - 2014 - 2016
 * System.Data.Sqlite (1.0.104)
 
-A description of the benchmark results [can be read in this blog post](http://www.diericx.net/post/benchmark-embedded-dotnet-databases/).
+A full description of the benchmark results [can be read in this blog post](http://www.diericx.net/post/benchmark-embedded-dotnet-databases/).
 
 # Install prerequisites:
 
